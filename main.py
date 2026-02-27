@@ -5,6 +5,6 @@ def main():
     print("bye")
     print("merci")
     print("modif 2.0")
-    print("branche de travail")
+    
 if __name__ == "__main__":
     main()
